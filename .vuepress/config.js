@@ -4,6 +4,7 @@ module.exports = {
   port: 2345,
   dest: './dist/',
   themeConfig: {
-    sidebar: 'auto'
+    sidebar: 'auto',
+    smoothScroll: true
   }
 }
